@@ -1,1 +1,3 @@
-Menyediakan kumpulan modul pembelajaran, slide presentasi, serta panduan praktikum penunjang bagi mahasiswa dalam menguasai konsep dan implementasi jaringan komputer tingkat lanjut
+Nama Mata Kuliah & Program: Jaringan Komputer Terapan (Jarkom Terapan) untuk program studi Teknologi Rekayasa Perangkat Lunak (TRPL) di Politeknik Citra Widya Edukasi.   
+Repositori GitHub: Dokumentasi dan materi ini di-host secara online melalui repository GitHub dengan tautan [https://github.com/harispc/Jaringan-Komputer-Terapan-TRPL-2026.git](https://github.com/harispc/Jaringan-Komputer-Terapan-TRPL-2026.git).   
+Tujuan Dokumentasi: Menyediakan kumpulan modul pembelajaran, slide presentasi, serta panduan praktikum penunjang bagi mahasiswa dalam menguasai konsep dan implementasi jaringan komputer tingkat lanjut. 
