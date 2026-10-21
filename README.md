@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌐 Jaringan Komputer Terapan (TRPL)
-### **Politeknik Citra Widya Edukasi — Angkatan 2026**
+### **Politeknik Citra Widya Edukasi — Angkatan 2025**
 
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 [![Tech Stack](https://img.shields.io/badge/Stack-Networking%20%7C%20Routing%20%7C%20Security-blue.svg)]()
